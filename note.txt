@@ -1,4 +1,0 @@
-Bölgesel Karşılaştırmalar ve Kümelenme Analizi:
-
-Ülkelerin sürdürülebilir kalkınma hedeflerine ulaşma performansını kıta veya gelir seviyesine göre analiz etmek için kümeleme algoritmaları (örneğin, K-Means) ile ülkeleri gruplandırabilirsiniz.
-Bu kümelenme ile sürdürülebilir kalkınma yolunda en ileri veya geride olan ülkeleri belirleyip, farklı özelliklerin kümeler üzerindeki etkisi incelenebilir.
